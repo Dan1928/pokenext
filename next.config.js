@@ -5,7 +5,6 @@ const nextConfig = {
 }
 
 module.exports = {
-  nextConfig,
   reactStrictMode: true,
   images: {
     domains: ["raw.githubusercontent.com"],
